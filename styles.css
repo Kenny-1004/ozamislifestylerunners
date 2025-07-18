@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section{
+    width: 428px;
+}
+
+.link-reg{
+    position: relative;
+    margin: 0 0 2.3rem 0;
+    left: 12rem;
+}
+
+
+.navbar-container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, rgb(44, 44, 44), rgb(29, 219, 209));
+    height: 4.5rem;
+}
+.register-btn{
+    position: absolute;
+    align-self: center;
+    width: 10rem;
+    padding: 10px 20px;
+    border-radius: 40px;
+    border: none;
+    color: black;
+    font-weight: 800;
+}
+
+.menu-container{
+    height: -10rem;
+    margin: 0 0 0 23rem;
+    color: white;
+}
+
+
+.img{
+    position: absolute;
+    width: 428px;
+}
+
